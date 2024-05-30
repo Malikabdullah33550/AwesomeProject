@@ -10,8 +10,15 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-voice/voice": "^3.2.4",
     "react": "18.2.0",
-    "react-native": "0.74.1"
+    "react-native": "0.74.1",
+    "react-native-callkeep": "^4.3.13",
+    "react-native-communications": "^2.2.1",
+    "react-native-contacts": "^7.0.8",
+    "react-native-permissions": "^4.1.5",
+    "react-native-tts": "^4.1.0",
+    "react-native-uuid": "^2.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

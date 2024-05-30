@@ -1,6 +1,7 @@
 package com.awesomeproject
 
 import android.app.Application
+//import com.facebook.react.shell.MainReactPackage
 import com.facebook.react.PackageList
 import com.facebook.react.ReactApplication
 import com.facebook.react.ReactHost
